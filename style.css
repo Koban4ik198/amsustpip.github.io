@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "calibri";
+    src: url("https://fonts-online.ru/fonts/calibri");
+}
+
+body {
+    background-color: #0e1923;
+    
+}
+
+.back_bream {
+    background-image: url("res/backround/breamimg.png");
+    background-repeat: no-repeat;
+    height: auto;
+}
+
+.text {
+    width: 50%;
+    height: auto;
+    
+    margin:  25px auto 25px;
+    
+    text-align: justify;
+    font-weight: 200;
+    font-size: 19px;
+    font-family: "calibri";
+    
+    color: #e6e6e6;
+}
+
+h1 {
+    color: #ffb06b;
+}
+
+.images {
+    width: 70%;
+    height: auto;
+    
+    margin:  25px auto 25px;
+}
+
+.name {
+    color: #ff5757;
+}
+
+.spike_clor {
+    color: #fea203;
+}
